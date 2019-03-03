@@ -1,0 +1,1 @@
+aws s3 cp --recursive s3://scooter-bucket-us-east-1 s3://scooter-bucket-us-west-1 --profile cert-training
